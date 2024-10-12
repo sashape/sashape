@@ -27,6 +27,8 @@
 📱 [Telegram: @sashape89](https://t.me/sashape89)
 ✉️ [Gmail: sashape89@gmail.com](mailto:sashape89@gmail.com)
 
+![Developer At Work](https://sashape.github.io/sashape/images/Pixel-art-of-a-cozy-room_-similar-to-the-lofi-girl-aesthetic.png)
+
 
 <!--
 **sashape/sashape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
